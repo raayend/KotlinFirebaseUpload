@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1004916871222",
+    "firebase_url": "https://belajar-kotlin.firebaseio.com",
+    "project_id": "belajar-kotlin",
+    "storage_bucket": "belajar-kotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1004916871222:android:4a988f2e3d51d80c",
+        "android_client_info": {
+          "package_name": "com.example.rayhan.kotlinfirebaseupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1004916871222-igdsef6uigkj7knle6g181kdhdcuc9ea.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rayhan.kotlinfirebaseupload",
+            "certificate_hash": "ca73531ef0a067e14d080feb93b423bfaadf6658"
+          }
+        },
+        {
+          "client_id": "1004916871222-u1chvuk2t7g5o3ihhpbt99kdk46a0g8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvB5E9ZLrkzmC_z8sYZbnAhpNb-AmwjN0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1004916871222-u1chvuk2t7g5o3ihhpbt99kdk46a0g8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
